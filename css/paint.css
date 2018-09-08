@@ -2,7 +2,7 @@ body {
   background: black url(../images/sketch.jpg) no-repeat center;
   background-size: cover;
 }
-
+/*stay*/
 #wall {
   position: relative;
   margin: 40px auto;
